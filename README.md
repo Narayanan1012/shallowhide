@@ -1,4 +1,4 @@
-#Shallowhide
+# Shallowhide
 # Discord Bot with Music, Reminders, and AI Features
 
 This Discord bot provides music playback, reminders, and AI-powered question answering. It utilizes `discord.py` for interacting with Discord, `yt-dlp` for fetching YouTube audio, and Google's Generative AI for answering questions. Below is an overview of the bot's features, the process followed to build it, and potential next steps for improvement.
