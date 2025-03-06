@@ -135,3 +135,5 @@ The bot requires the following permissions for proper functionality:
 ## Conclusion
 This bot provides a versatile solution for Discord servers, offering music playback, reminders, and AI-powered features. With further development, it can become a more powerful and user-friendly assistant. Suggestions and contributions are welcome.
 
+## Current issues:
+Currently working on fixing reminders functionalty
