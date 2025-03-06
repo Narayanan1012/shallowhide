@@ -37,7 +37,7 @@ Ensure you have the following installed:
 ### Install Dependencies
 Run the following command to install required libraries:
 ```sh
-pip install discord.py python-dotenv google-generativeai yt-dlp
+pip install discord.py python-dotenv google-generativeai yt-dlp asyncio datetime pytz
 ```
 
 ### Setting Up `ffmpeg`
@@ -135,5 +135,3 @@ The bot requires the following permissions for proper functionality:
 ## Conclusion
 This bot provides a versatile solution for Discord servers, offering music playback, reminders, and AI-powered features. With further development, it can become a more powerful and user-friendly assistant. Suggestions and contributions are welcome.
 
-## Current issues:
-Currently working on fixing reminders functionalty
