@@ -50,6 +50,13 @@ Includes utility and fun commands such as greetings and a help menu.
 
 ## Setup Instructions
 
+### Create a Discord Bot Application
+1. Go to the [Discord Developer Portal](https://discord.com/developers/applications).
+2. Click "New Application" and give it a name.
+3. Navigate to "Bot" in the left menu and click "Add Bot."
+4. Enable the necessary permissions under the "OAuth2" and "Bot" sections.
+5. Copy the bot token from the "Bot" section for later use.
+
 ### Prerequisites
 Ensure you have the following installed:
 - Python 3.8+
